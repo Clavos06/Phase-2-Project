@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6c4b43c7-8d0a-4116-b33f-59d74923eb17" name="Phase 2 Project" url="http://ddc-web-student.cnm.edu/~nbjork1/Phase-2-project/">
+        <fileTransfer rootFolder="/home/nbjork1/public_html/Phase-2-Project" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="049b0b76-3ae0-4074-b9d4-1815c980a9d4" sshConfig="nbjork1@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
